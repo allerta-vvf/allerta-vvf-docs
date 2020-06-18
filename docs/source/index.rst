@@ -6,9 +6,17 @@
 Welcome to Allerta VVF docs's documentation!
 ============================================
 
+Allerta VVF is an open source firefighter management software.
+It's currently in beta stage.
+
+Contents of the documentations:
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   intro
+   install
+   contributing
+   developement
 
 
 
